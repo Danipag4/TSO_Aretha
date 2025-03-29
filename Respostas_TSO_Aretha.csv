@@ -1,25 +1,25 @@
-,Entregue,Nome,Tipo de Avaliação,Setor,Competencia,Pergunta,Auto Avaliação,Avaliador,Setores
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,COMPROMETIMENTO,Assume suas responsabilidades com total dedicação como se fosse dono do negócio.,4,3,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,COMPROMETIMENTO,Cumpre o que promete.,3,4,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,COMPROMETIMENTO,Pratica os valores da empresa.,4,4,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,COMPROMETIMENTO,"Realiza suas atividades, dentro do prazo previsto com o padrão de qualidade requerido.",3,4,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,COMUNICAÇÃO,Escuta ativamente colocando-se no lugar do outro.,4,3,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,COMUNICAÇÃO,Expressa suas ideias de forma clara.,2,3,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,COMUNICAÇÃO,Pergunta quando tem dúvidas.,3,4,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,COMUNICAÇÃO,Se esforça para compreender a mensagem recebida,4,4,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,CRIATIVIDADE,"Cria, produz ou inventa conceitos e coisas inéditas",2,3,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,CRIATIVIDADE,"É capaz de introduzir novidades, renovar, recriar.",3,3,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,CRIATIVIDADE,Encontra soluções criativas para contornar obstáculos.,3,3,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,CRIATIVIDADE,Transforma ideias novas e originais em realidade,3,3,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,ORGANIZAÇÃO,Busca soluções para problemas antes que se tornem graves.,3,3,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,ORGANIZAÇÃO,Prioriza tarefas de forma efetiva.,3,4,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,ORGANIZAÇÃO,Realiza um serviço com qualidade e eficiência.,3,4,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,ORGANIZAÇÃO,Trabalha em vários projetos sem se perder.,4,3,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,PROATIVIDADE,"Age prontamente, sem depender de instruções alheias.",3,3,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,PROATIVIDADE,Percebe quando vai ocorrer um problema. Antecipa ações para lidar com obstáculos prováveis.,3,3,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,PROATIVIDADE,Propõe melhorias nos processos para garantir maior otimização dos mesmos.,3,3,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,PROATIVIDADE,Tem iniciativa de fazer acontecer.,4,3,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,RESOLUÇÃO DE PROBLEMAS,"Analisa as questões de forma clara e objetiva, como um diagnóstico.",3,3,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,RESOLUÇÃO DE PROBLEMAS,Analisa de forma racional e inteligente os problemas.,3,3,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,RESOLUÇÃO DE PROBLEMAS,"Busca alternativas diferentes, ""pensa fora da caixa"".",2,2,Eventos
-AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,RESOLUÇÃO DE PROBLEMAS,Se responsabiliza pela resolução dos problemas.,4,3,Eventos
+,AvaliadorEntregue,Nome,Tipo de Avaliação,Setor,Competencia,Pergunta,Comentários,Auto Avaliação,Avaliador,Setores
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,COMPROMETIMENTO,Assume suas responsabilidades com total dedicação como se fosse dono do negócio., ,4,3,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,COMPROMETIMENTO,Cumpre o que promete.,"Até o momento, está superando as minhas expectativas!",3,4,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,COMPROMETIMENTO,Pratica os valores da empresa., ,4,4,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,COMPROMETIMENTO,"Realiza suas atividades, dentro do prazo previsto com o padrão de qualidade requerido.", ,3,4,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,COMUNICAÇÃO,Escuta ativamente colocando-se no lugar do outro., ,4,3,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,COMUNICAÇÃO,Expressa suas ideias de forma clara.,Perfil tímido.,2,3,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,COMUNICAÇÃO,Pergunta quando tem dúvidas.,Sempre pergunta quando tem dúvidas.,3,4,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,COMUNICAÇÃO,Se esforça para compreender a mensagem recebida, ,4,4,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,CRIATIVIDADE,"Cria, produz ou inventa conceitos e coisas inéditas",Cria planilhas complexas em Excel para organizar os dados. Utiliza ferramentas de IA para auxiliar nas tarefas.,2,3,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,CRIATIVIDADE,"É capaz de introduzir novidades, renovar, recriar.", ,3,3,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,CRIATIVIDADE,Encontra soluções criativas para contornar obstáculos., ,3,3,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,CRIATIVIDADE,Transforma ideias novas e originais em realidade,"Contratação recente e como tem pouca experiência em eventos automotivos,  está na fase de aprender e reproduzir o aprendizado. Ainda está se familiarizando com as nossas dinâmicas.",3,3,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,ORGANIZAÇÃO,Busca soluções para problemas antes que se tornem graves.,Sempre compartilha comigo o que aconteceu e pede um direcionamento.,3,3,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,ORGANIZAÇÃO,Prioriza tarefas de forma efetiva.,Toma nota quando falamos sobre tarefas e deatlhes do evento.,3,4,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,ORGANIZAÇÃO,Realiza um serviço com qualidade e eficiência.,Muito organizado!,3,4,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,ORGANIZAÇÃO,Trabalha em vários projetos sem se perder.,Segue o direcionamento de tarefas.,4,3,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,PROATIVIDADE,"Age prontamente, sem depender de instruções alheias.","Muito proativo, mas tem pouca experiência em eventos automotivos, então sempre me consulta - que no momento, é o que espero dele.",3,3,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,PROATIVIDADE,Percebe quando vai ocorrer um problema. Antecipa ações para lidar com obstáculos prováveis.,Ainda está desenvolvendo uma visão mais sistêmica e imeditada de resolução de problemas.,3,3,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,PROATIVIDADE,Propõe melhorias nos processos para garantir maior otimização dos mesmos.,"Participou de poucos eventos conosco, ainda está desenvolvendo uma visão crítica dos processos e é algo que já conversamos muito sobre.",3,3,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,PROATIVIDADE,Tem iniciativa de fazer acontecer., ,4,3,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,RESOLUÇÃO DE PROBLEMAS,"Analisa as questões de forma clara e objetiva, como um diagnóstico.", ,3,3,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,RESOLUÇÃO DE PROBLEMAS,Analisa de forma racional e inteligente os problemas.,Exemplo: reorganização do estoque - criou uma forma de setorizar todo o material de acordo com a frequencia de uso.,3,3,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,RESOLUÇÃO DE PROBLEMAS,"Busca alternativas diferentes, ""pensa fora da caixa"".","Fase inicial na empresa, em aprendizado.",2,2,Eventos
+AVALIADO: Gabriel Guizi Santos,Aretha Rusalen Oliveira,Gabriel Guizi Santos,Evento,Eventos,RESOLUÇÃO DE PROBLEMAS,Se responsabiliza pela resolução dos problemas., ,4,3,Eventos
